@@ -1,10 +1,8 @@
 # Next.js + FastAPI + MySQL + phpMyAdmin Starter
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](http://github.com/your-repo) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/alphatra/Full-stack-docker-compose) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Ten projekt to kompleksowy zestaw narzędzi do szybkiego rozpoczęcia projektu z wykorzystaniem Next.js, FastAPI, MySQL i phpMyAdmin, wszystko skonfigurowane w Dockerze!
-
-![Project Screenshot](screenshot.png)
 
 ## Funkcje
 
